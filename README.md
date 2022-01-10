@@ -31,13 +31,7 @@ To install ..., follow these steps:
 To use ..., follow these steps:
 
 ```
-CRUD done in Java by the Client and his Order. I was based on a cafeteria close to home, whose name is Skina Lanches, I added a mini-menu for the user.
 
-Some error treatments, but not all possible.
-
-Until now,
-
-The program is without front, but soon I will add, its visualization will be through the console of your preference.
 ```
 
 ## 📫 Contributing to Exlivery
@@ -75,6 +69,6 @@ Do you want to be part of this project? Click [here](https://github.com/joabehen
 
 ## 📝 License
 
-This project is under license. See the [license](https://github.com/joabehenrique/client-menu/blob/master/LICENSE.md) file for more details.
+This project is under license. See the [license](https://github.com/joabehenrique/exercism-tracks/blob/master/LICENSE.md) file for more details.
 
 [⬆ Back to top](#ExercismTracks)<br>
